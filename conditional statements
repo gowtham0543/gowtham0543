@@ -1,0 +1,15 @@
+x=30
+y=20
+z=10
+if (x>y):
+    print("largest to smallest:",x)
+else:
+    print("largest to smallest:",y)
+if (y>z):
+    print("largest to smallest:",y)
+else:
+    print("largest to smallest:",z)
+if (z>x):
+    print("largest to smallest:",x)
+else:
+    print("largest to smallest:",z)
